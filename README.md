@@ -30,5 +30,5 @@ the presence of a person, Arduino as the heart of
 the system, and different kinds of IoT devices.
 Plagiarism report is not attached, since the research
 paper is already published.
-# Link: 
+# Link (Research Paper): 
 [https://ieeexplore.ieee.org/document/10489486]
